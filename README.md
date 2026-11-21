@@ -4,7 +4,7 @@ Pipeline de ciência de dados, de ponta a ponta, que prevê quebras mecânicas e
 
 **Autor:** Leandro Lima
 
-**Vídeo de apresentação:** [assista aqui](COLE_AQUI_O_LINK_DO_VIDEO)
+**Vídeo de apresentação:** [assista aqui](https://drive.google.com/file/d/1MwHiDjvF2TVQO3oYbwyJHpX4Nb3j1UnN/view?usp=sharing)
 
 ---
 
